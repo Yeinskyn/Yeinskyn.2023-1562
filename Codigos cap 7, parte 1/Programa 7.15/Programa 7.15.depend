@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710376267 source:c:\users\yeins\onedrive\escritorio\programación para mecatrónicos\codigos cap 7\programa 7.15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
